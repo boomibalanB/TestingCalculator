@@ -1,0 +1,16 @@
+PODS:
+  - TestingCalculator (0.1.0)
+
+DEPENDENCIES:
+  - TestingCalculator (from `../`)
+
+EXTERNAL SOURCES:
+  TestingCalculator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestingCalculator: 9806e1732f5a526551c5c85a75f68d146709a663
+
+PODFILE CHECKSUM: 4d2ec7c1b478580909b946aa2a322420edbadf0c
+
+COCOAPODS: 1.16.2
